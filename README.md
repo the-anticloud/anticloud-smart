@@ -2,9 +2,9 @@
 
 > My development environment was infected by unknown malicious software, as a result of which a few builds may have been affected. Once the issue was detected, I secured everything with a full disk wipe, restored a clean setup, and now all builds are scanned with VirusTotal. The F-Droid version will also be verified before release.
 
-**Category:** WASTE_MANAGEMENT · **Ecosystem:** unknown · **Vendored upstream:** https://github.com/scwang90/SmartRefreshLayout · **Pinned commit:** `224db48f8af897a930b810a6b6fc55af8cef0d57` · **Vendor:** Anticloud FZ LLE
+**Category:** WASTE_MANAGEMENT · **Ecosystem:** unknown · **Vendored upstream:** https://github.com/yuliskov/SmartTube · **Pinned commit:** `7f64b448d7b7d52ca1230ebe730dca8b38e26194` · **Vendor:** Anticloud FZ LLE
 
-> **Note:** this package vendors `https://github.com/scwang90/SmartRefreshLayout` as the implementation for the `SMART` slot. The vendored repository name differs from the package name; the pin above is the exact commit vendored here.
+> **Note:** this package vendors `https://github.com/yuliskov/SmartTube` as the implementation for the `SMART` slot. The vendored repository name differs from the package name; the pin above is the exact commit vendored here.
 
 ## What This Project Is
 
@@ -84,7 +84,7 @@ The upstream licence is preserved in `LICENSE` and `THIRD_PARTY_LICENSES/`. The 
 SHA3-256 of `BENCH.json`:
 
 ```
-8a00fb03fb370aed4b49f7d01640a7163f022d2bce48185adfb7fe7f6d364f42
+5f8320e73f49a647e058ef441ee3ddc189dc3e70cd98ce0228638328afe84723
 ```
 
 Recompute the hash above and compare — any drift means the package has been tampered with and the seal is invalid. This is a self-assessment; no external audit has been performed and a SOC 2 / NIST independent audit is committed post-funding.

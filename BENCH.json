@@ -540,10 +540,10 @@
  "version": "1.0.0",
  "source": {
   "git": {
-   "head": "224db48f8af897a930b810a6b6fc55af8cef0d57",
-   "url": "https://github.com/scwang90/SmartRefreshLayout",
-   "branch": "main",
-   "sha_verified_from": "GitHub API commits/main"
+   "url": "https://github.com/yuliskov/SmartTube",
+   "head": "7f64b448d7b7d52ca1230ebe730dca8b38e26194",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/scwang90/SmartRefreshLayout"
   }
  }
 }
